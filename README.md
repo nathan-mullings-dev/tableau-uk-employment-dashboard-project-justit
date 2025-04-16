@@ -82,12 +82,6 @@ A vertical bar chart ranks the industries with the highest overall employment ch
 
 ---
 
-## 📸 Dashboard Preview
-
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-uk-employment-dashboard-project-justit/blob/main/UK%20Employment%20Dashboard%20(2011%E2%80%932014)%20-%20Tableau.png" width="1500"/></a>
-
----
-
 ## 🎓 Learning Outcomes
 
 From this project, I gained hands-on experience in:
@@ -97,3 +91,11 @@ From this project, I gained hands-on experience in:
 - 🎨 Designing effective, audience-friendly dashboards using **color, size, and hierarchy** to tell clear stories.
 - 🧠 Applying critical thinking to extract **key business insights** from complex employment datasets.
 - 🔍 Exploring regional economic patterns and their implications for urban development and workforce strategy.
+
+---
+
+## 📸 Dashboard Preview
+
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-uk-employment-dashboard-project-justit/blob/main/UK%20Employment%20Dashboard%20(2011%E2%80%932014)%20-%20Tableau.png" width="1500"/></a>
+
+---
