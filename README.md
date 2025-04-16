@@ -96,6 +96,6 @@ From this project, I gained hands-on experience in:
 
 ## 📸 Dashboard Preview
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-uk-employment-dashboard-project-justit/blob/main/UK%20Employment%20Dashboard%20(2011%E2%80%932014)%20-%20Tableau.png" width="1500"/></a>
+<a href="https://public.tableau.com/app/profile/nathan.mullings/viz/UKEmploymentDashboard_17416906334120/2011-2014GBEmploymentDashboard" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-uk-employment-dashboard-project-justit/blob/main/UK%20Employment%20Dashboard%20(2011%E2%80%932014)%20-%20Tableau.png" width="1500"/></a>
 
 ---
