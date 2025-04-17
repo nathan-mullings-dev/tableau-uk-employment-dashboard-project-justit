@@ -5,7 +5,7 @@
 
 ## 📘 Project Proposal
 
-The purpose of this Tableau dashboard is to visualize and analyze employment trends across the United Kingdom between 2011 and 2014. This project aims to offer insights into which cities and industries experienced the most significant employment growth and to support data-driven decision-making for workforce planning, urban development, and economic policy.
+The purpose of this Tableau dashboard is to visualize and analyze employment trends across the United Kingdom from 2011 to 2014, using the **EMSI_JobChange_UK** dataset. This project aims to offer insights into which cities and industries experienced the most significant employment growth and to support data-driven decision-making for workforce planning, urban development, and economic policy.
 
 ### Objectives:
 
